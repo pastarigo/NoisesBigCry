@@ -65,7 +65,6 @@
     {"name":"obj_verticalhallway","order":1,"path":"objects/obj_verticalhallway/obj_verticalhallway.yy",},
     {"name":"obj_donut","order":6,"path":"objects/obj_donut/obj_donut.yy",},
     {"name":"spr_player_fall","order":11,"path":"sprites/spr_player_fall/spr_player_fall.yy",},
-    {"name":"insideout_4","order":3,"path":"rooms/insideout_4/insideout_4.yy",},
     {"name":"GMLive_vm_call","order":6,"path":"scripts/GMLive_vm_call/GMLive_vm_call.yy",},
     {"name":"GMLiveAPI","order":3,"path":"scripts/GMLiveAPI/GMLiveAPI.yy",},
     {"name":"GMLive_node","order":2,"path":"scripts/GMLive_node/GMLive_node.yy",},

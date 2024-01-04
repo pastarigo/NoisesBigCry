@@ -60,7 +60,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"spr_player_glidefall","path":"sprites/spr_player_glidefall/spr_player_glidefall.yy",},},
@@ -100,7 +100,6 @@
     {"id":{"name":"obj_verticalhallway","path":"objects/obj_verticalhallway/obj_verticalhallway.yy",},},
     {"id":{"name":"obj_donut","path":"objects/obj_donut/obj_donut.yy",},},
     {"id":{"name":"spr_player_fall","path":"sprites/spr_player_fall/spr_player_fall.yy",},},
-    {"id":{"name":"insideout_4","path":"rooms/insideout_4/insideout_4.yy",},},
     {"id":{"name":"GMLive_action","path":"scripts/GMLive_action/GMLive_action.yy",},},
     {"id":{"name":"scr_startup","path":"scripts/scr_startup/scr_startup.yy",},},
     {"id":{"name":"GMLive_vm_call","path":"scripts/GMLive_vm_call/GMLive_vm_call.yy",},},
@@ -216,9 +215,7 @@
     {"roomId":{"name":"blank_rm","path":"rooms/blank_rm/blank_rm.yy",},},
     {"roomId":{"name":"insideout_2","path":"rooms/insideout_2/insideout_2.yy",},},
     {"roomId":{"name":"insideout_3","path":"rooms/insideout_3/insideout_3.yy",},},
-    {"roomId":{"name":"insideout_4","path":"rooms/insideout_4/insideout_4.yy",},},
   ],
-  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"debuggroup","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
