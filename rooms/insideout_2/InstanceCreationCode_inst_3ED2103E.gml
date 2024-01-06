@@ -1,0 +1,1 @@
+targetRoom = insideout_1;
